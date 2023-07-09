@@ -1,5 +1,5 @@
 # Actuator demo
-Demo project for pushing actuator metrics to Datadog.
+Demo project for pushing actuator metrics to a monitoring system.
 
 ## Getting Started
 
